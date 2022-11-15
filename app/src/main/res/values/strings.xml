@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea2_4</string>
+    <string name="btnVer">ver</string>
+	<string name="btnFinalizar">Finalizar</string>
+</resources>
